@@ -17,4 +17,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![](docs/assets/images/hr-img.png)
+![](develop/assets/images/hr-img.png)
